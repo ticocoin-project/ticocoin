@@ -1173,10 +1173,20 @@ void MapPort(bool)
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
+    {"example.com", "34.71.135.91"},
+    {"example1.com", "13.58.201.77"},
+    {"example2.com", "13.59.42.67"},
+    {"example3.com", "18.219.133.0"},
+    {"example4.com", "18.222.78.146"},
     {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
+    {"example.com", "34.71.135.91"},
+    {"example1.com", "13.58.201.77"},
+    {"example2.com", "13.59.42.67"},
+    {"example3.com", "18.219.133.0"},
+    {"example4.com", "18.222.78.146"},
     {NULL, NULL}
 };
 
@@ -1225,7 +1235,7 @@ void ThreadDNSAddressSeed()
 
 unsigned int pnSeed[] =
 {
-    0x0
+    0x0100007f,0x924ede12,0x0085db12,0x432a3b0d,0x5b874722,0x4dc93a0d
 };
 
 void DumpAddresses()

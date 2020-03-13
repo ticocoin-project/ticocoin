@@ -181,6 +181,9 @@ Clone your coin into debian's home folder using git:
  
 git clone https://github.com/schyczewski/funcoin.git
 (Obviously replace my info with yours)
+
+
+sudo apt-get install apache2 get apt-cacher-ng python-vm-builder quemu-kvm ruby quemu-utils rubygems
  
 Build base VM:
  
