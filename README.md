@@ -34,11 +34,11 @@ Informacion de la moneda - Info Coin
 ----------------------------------------------------------
 
 Puede Consultar la web: http://ticocoin.cf/
-Tambien explorar las transacciones en: http://explorer.ticocoin.cf/
+Tambien explorar las transacciones en: ------>
 Crear tu propia billetera: https://wallet.ticocoin.cf/
 
 You can consult the web: http://ticocoin.cf/
-Also explore transactions at: http://explorer.ticocoin.cf/
+Also explore transactions at: ------->
 Create your own wallet: https://wallet.ticocoin.cf/
 
 
